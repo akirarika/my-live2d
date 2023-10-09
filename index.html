@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+  <style>
+    :root,
+    body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    #canvas {
+      opacity: 1;
+      transition: opacity 640ms;
+      transform-origin: top left;
+    }
+  </style>
+</head>
+
+<body>
+  <script>
+    console.log("提示: 可通过配置 url 参数调谐模型");
+    console.log("ヒント: URL パラメーターを構成することでモデルを調整できます");
+    console.log("Tip: You can tune the model by configuring the url parameters");
+    console.log("top (number): 模型距离顶部的位置");
+    console.log("top (number): モデルを上から見た位置");
+    console.log("top (number): The position of the model from the top");
+    console.log('left (number | "center"): 模型距离左侧的位置，"center" 为居中');
+    console.log('left (number | "center"): モデルの左側からの位置。"center" は中央を意味します');
+    console.log('left (number | "center"): The position of the model from the left side, "center" means centered');
+    console.log("right (number): 模型距离右侧的位置。注意：只有当 left 不存在时有效");
+    console.log("right (number): モデルの位置を右から。 注: left が存在しない場合にのみ有効です");
+    console.log("right (number): The position of the model from the right. Note: Only valid when left does not exist");
+    console.log("bottom (number): 模型距离底部的位置。注意：只有当 top 不存在时有效");
+    console.log("bottom (number): モデルを下から見た位置です。 注: top が存在しない場合にのみ有効です");
+    console.log("bottom (number): Bottom position of model distance. Note: Only in effect top When absent, in effect");
+    console.log("scale (number): 模型缩放，1 为原始大小 (100%)");
+    console.log("scale (number): モデルのスケーリング、1 は初期サイズです (100%)");
+    console.log("scale (number): Model widening, 1 primitive size (100%)");
+    console.log("opacity (number): 不透明度，1 为不透明 (100%)");
+    console.log("opacity (number): 不透明度、1 は不透明です (100%)");
+    console.log("opacity (number): Opacity, 1 more opaque (100%)");
+    console.log("================================ START ================================");
+  </script>
+  <img src="./bg.png" id="bg" style="position: fixed; z-index: -1; width: 100%; display: none;" />
+  <!-- <div style="width: 100%; height: 100%; background: #f9fafc; position: fixed; z-index: -1"></div> -->
+  <canvas id="canvas"></canvas>
+  <script src="./js/live2dcubismcore.min.js"></script>
+  <script src="./js/live2d.min.js"></script>
+  <script src="./js/pixi.min.js"></script>
+  <script src="./js/index.min.js"></script>
+  <script src="./main.js"></script>
+</body>
+
+</html>

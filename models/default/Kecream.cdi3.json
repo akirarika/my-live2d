@@ -1,0 +1,427 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "外衣"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "袜子"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左眼　微笑"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "左眼高光物理"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "",
+			"Name": "左眼眼光物理"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右眼　微笑"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "右眼高光物理"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "",
+			"Name": "右眼眼光物理"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "眼球 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "眼球 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "左眼物理"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眼物理"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴部　变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴巴　张开和闭合"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "脸颊"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "身体旋转　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "身体旋转　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "身体旋转　Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "摇动　前发"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "摇动　侧发"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "摇动　后发"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "发带物理"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "领带物理"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "裙子物理"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "呆毛物理"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "ｷ�ﾗｰ1"
+		},
+		{
+			"Id": "Part52",
+			"Name": "ｷ�ﾗｰ 2"
+		},
+		{
+			"Id": "Part2",
+			"Name": "ﾃｱﾗﾓ"
+		},
+		{
+			"Id": "Part3",
+			"Name": "ﾍｸﾃ�ﾍ篶ﾗﾇｰ"
+		},
+		{
+			"Id": "Part4",
+			"Name": "ｱ�ﾇ�"
+		},
+		{
+			"Id": "Part28",
+			"Name": "ﾍｷ"
+		},
+		{
+			"Id": "Part38",
+			"Name": "ﾍ篶ﾗﾇｰ"
+		},
+		{
+			"Id": "Part39",
+			"Name": "ﾉ�ﾗﾓ"
+		},
+		{
+			"Id": "Part48",
+			"Name": "ﾍｸﾃ�ﾍ篶ﾗｺ�"
+		},
+		{
+			"Id": "Part49",
+			"Name": "ｺ�ｷ｢"
+		},
+		{
+			"Id": "Part54",
+			"Name": "ﾍ篶ﾗﾇｰ ｸｱｱｾ"
+		},
+		{
+			"Id": "Part55",
+			"Name": "ﾍｷ"
+		},
+		{
+			"Id": "Part65",
+			"Name": "ﾃｱﾗﾓ2 ｸｱｱｾ"
+		},
+		{
+			"Id": "Part66",
+			"Name": "ﾉ�ﾗﾓ ｸｱｱｾ"
+		},
+		{
+			"Id": "Part74",
+			"Name": "ﾍ篶ﾗｺ� ｸｱｱｾ"
+		},
+		{
+			"Id": "Part75",
+			"Name": "ｺ�ｷ｢ ｸｱｱｾ 3"
+		},
+		{
+			"Id": "Part5",
+			"Name": "ﾍｷ ｿﾞﾆ�"
+		},
+		{
+			"Id": "Part29",
+			"Name": "ﾇｰｷ｢"
+		},
+		{
+			"Id": "Part32",
+			"Name": "ﾁｳ"
+		},
+		{
+			"Id": "Part40",
+			"Name": "ﾉﾏﾉ�"
+		},
+		{
+			"Id": "Part41",
+			"Name": "ﾍｸﾃ�ﾍ篶ﾗﾖﾐ"
+		},
+		{
+			"Id": "Part42",
+			"Name": "ﾈｹﾗﾓ"
+		},
+		{
+			"Id": "Part43",
+			"Name": "ﾍﾈ(ﾐ｡ﾍﾈﾍ�)"
+		},
+		{
+			"Id": "Part44",
+			"Name": "ﾍﾈ(ｹ�ﾏ･ﾍ�)"
+		},
+		{
+			"Id": "Part45",
+			"Name": "ﾊﾖ2"
+		},
+		{
+			"Id": "Part46",
+			"Name": "ﾊﾖ"
+		},
+		{
+			"Id": "Part50",
+			"Name": "ﾂ�ﾎｲ2"
+		},
+		{
+			"Id": "Part51",
+			"Name": "ﾂ�ﾎｲ"
+		},
+		{
+			"Id": "Part56",
+			"Name": "ﾇｰｷ｢ ｸｱｱｾ 2"
+		},
+		{
+			"Id": "Part59",
+			"Name": "ﾁｳ ｸｱｱｾ 2"
+		},
+		{
+			"Id": "Part67",
+			"Name": "ﾈｹﾗﾓ ｸｱｱｾ"
+		},
+		{
+			"Id": "Part68",
+			"Name": "ﾉﾏﾉ�"
+		},
+		{
+			"Id": "Part70",
+			"Name": "ﾍﾈ(ｹ�ﾏ･ﾍ�) ｸｱｱｾ"
+		},
+		{
+			"Id": "Part71",
+			"Name": "ﾊﾖ2 ｸｱｱｾ"
+		},
+		{
+			"Id": "Part72",
+			"Name": "ﾊﾖ ｸｱｱｾ"
+		},
+		{
+			"Id": "Part76",
+			"Name": "ﾂ�ﾎｲ2 ｸｱｱｾ 2"
+		},
+		{
+			"Id": "Part77",
+			"Name": "ﾂ�ﾎｲ ｸｱｱｾ 2"
+		},
+		{
+			"Id": "Part6",
+			"Name": "ﾁｳ"
+		},
+		{
+			"Id": "Part30",
+			"Name": "ﾃｼﾃｫ"
+		},
+		{
+			"Id": "Part31",
+			"Name": "ﾖﾐﾇｰｷ｢"
+		},
+		{
+			"Id": "Part34",
+			"Name": "ﾑﾛ2"
+		},
+		{
+			"Id": "Part36",
+			"Name": "ﾑﾛ"
+		},
+		{
+			"Id": "Part33",
+			"Name": "ﾗ�ｰﾍ2"
+		},
+		{
+			"Id": "Part57",
+			"Name": "ﾃｼﾃｫ ｸｱｱｾ"
+		},
+		{
+			"Id": "Part58",
+			"Name": "ﾖﾐﾇｰｷ｢ ｸｱｱｾ"
+		},
+		{
+			"Id": "Part60",
+			"Name": "ﾗ�ｰﾍ2 ｸｱｱｾ 2"
+		},
+		{
+			"Id": "Part61",
+			"Name": "ﾑﾛ2"
+		},
+		{
+			"Id": "Part63",
+			"Name": "ﾑﾛ"
+		},
+		{
+			"Id": "Part69",
+			"Name": "ｺ�ｵ�ｽ� ｸｱｱｾ"
+		},
+		{
+			"Id": "Part7",
+			"Name": "ﾑﾛ"
+		},
+		{
+			"Id": "Part8",
+			"Name": "ﾑﾛ2"
+		},
+		{
+			"Id": "Part35",
+			"Name": "ﾗ� 1 ｸｱｱｾ"
+		},
+		{
+			"Id": "Part37",
+			"Name": "ﾗ� 1 ｿｽｱｴ ｸｱｱｾ"
+		},
+		{
+			"Id": "Part62",
+			"Name": "ﾗ� 1 ｸｱｱｾ"
+		},
+		{
+			"Id": "Part64",
+			"Name": "ﾗ� 1 ｿｽｱｴ ｸｱｱｾ"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		]
+	]
+}

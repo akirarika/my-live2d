@@ -1,0 +1,31 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Kecream.moc3",
+		"Textures": [
+			"Kecream.4096/texture_00.png"
+		],
+		"Physics": "Kecream.physics3.json",
+		"DisplayInfo": "Kecream.cdi3.json",
+		"Motions": {
+			"Idle": [],
+			"Init": [
+				{
+					"File": "motion/hiyori_m07.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

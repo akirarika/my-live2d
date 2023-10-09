@@ -1,0 +1,9 @@
+["general"]
+mixins = ["~/.co.toml"]
+
+["dev"]
+commands = ["dev", "start"]
+scripts = [
+    # the command to run, can run multiple
+    "anywhere 8765",
+]
