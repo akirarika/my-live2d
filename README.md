@@ -2,6 +2,8 @@ This is the Live2D model of my Original Character!
 
 her name is 可莉姆船长
 
+https://akirarika.github.io/my-live2d/
+
 You can use it, but you must abide by the following conventions to obtain permission:
 
 Not to profit from her directly or indirectly
